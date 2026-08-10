@@ -47,8 +47,8 @@ Student Software Engineer
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Pradhyumna51&show_icons=true&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Pradhyumna51&layout=compact&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Pradhyumna51&show_icons=true&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&cache_seconds=1800" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Pradhyumna51&layout=compact&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&langs_count=8&cache_seconds=1800" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
