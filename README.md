@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=56d4dd&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=I+do+silly+(sometimes+serious)+projects+🚀;Student+Software+Engineer+by+day+☀️;Satellite+tracker+by+night+🛰️;Always+building+something+cool+🔨" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=56d4dd&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=I+do+silly+(sometimes+serious)+projects+%F0%9F%9A%80;Student+Software+Engineer+by+day+%E2%98%80%EF%B8%8F;Satellite+tracker+by+night+%F0%9F%9B%B0%EF%B8%8F;Always+building+something+cool+%F0%9F%94%A8" alt="Typing headlines" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
