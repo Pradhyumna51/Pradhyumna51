@@ -54,7 +54,7 @@ Student Software Engineer
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pradhyumna51&bg_color=00000000&color=e5484d&line=e5484d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Pradhyumna51/Pradhyumna51/output/activity-graph.svg" alt="activity graph" />
 </p>
 
 ### 🐍 Contribution Snake
